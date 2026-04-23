@@ -1,0 +1,12 @@
+******PHP Adminer********
+username: Admin1
+password: password
+
+******Users*******
+1. Amir Tamang (Admin)
+amir.yonjan12@gmail.com
+123456
+
+2. Siddharth Yonzone (Customer)
+sid.yonzone@gmail.com
+654321
